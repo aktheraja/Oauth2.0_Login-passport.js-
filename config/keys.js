@@ -8,6 +8,9 @@ module.exports ={
     },
     mongodb:{
         dbURl: 'mongodb://127.0.0.1:27017/mongodb'
+    },
+    session:{
+        cookieKey:'jskkdjdjdjdhjjs'
     }
 
 };
